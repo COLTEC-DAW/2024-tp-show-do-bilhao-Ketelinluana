@@ -1,0 +1,27 @@
+[
+    {
+        "enunciado": "Qual a capital da França?",
+        "alternativas": ["Paris", "Londres", "Berlim", "Madri"],
+        "resposta": 0
+    },
+    {
+        "enunciado": "Qual é o maior planeta do Sistema Solar?",
+        "alternativas": ["Terra", "Júpiter", "Marte", "Saturno"],
+        "resposta": 1
+    },
+    {
+        "enunciado": "Quem pintou a Mona Lisa?",
+        "alternativas": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "resposta": 1
+    },
+    {
+        "enunciado": "Qual o elemento químico com símbolo Au?",
+        "alternativas": ["Prata", "Ouro", "Cobre", "Mercúrio"],
+        "resposta": 1
+    },
+    {
+        "enunciado": "Em que ano a primeira guerra mundial começou?",
+        "alternativas": ["1912", "1914", "1916", "1918"],
+        "resposta": 1
+    }
+]
